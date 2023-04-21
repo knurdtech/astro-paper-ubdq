@@ -3,7 +3,7 @@ import type { SocialObjects } from "./types";
 export const SITE = {
   website: "https://ubdq.com/",
   author: "ubdq",
-  desc: "Unassuming Bitcoin and Decentralized Queries",
+  desc: "Unassuming Bitcoin and Decentralized Quandaries",
   title: "UBDQ",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
