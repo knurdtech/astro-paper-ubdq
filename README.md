@@ -1,4 +1,4 @@
-# Unassuming Bitcoin & Decentralized Queries
+# Unassuming Bitcoin & Decentralized Quandaries
 
 UBDQ is a four letter domain purchased long ago. It hasn't been used for much and I decided to use it recently for NIP-05 Nostr names. In doing so, I might as well put up some Nostr and other decentralized resources as I come across them. Feel free to open issues with thoughts or suggestions (including the random acronym I came up with).
 
