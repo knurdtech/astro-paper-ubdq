@@ -1,5 +1,13 @@
 {
   "names": {
-    "escpod": "ae74fa5db15c30b0327516aaeaecd45f3393686d3ecade380e485eb4950d04ac"
+    "escpod": "ae74fa5db15c30b0327516aaeaecd45f3393686d3ecade380e485eb4950d04ac",
+    "GuineaUp": "ec34fde26f1a83cfbc7b2f2197fefbf3a1a5b1f94a61d456c290da91b672d350"
+  },
+  "relays": {
+    "ec34fde26f1a83cfbc7b2f2197fefbf3a1a5b1f94a61d456c290da91b672d350": [
+      "wss://relay.escpod.co",
+      "wss://nostr.data.haus",
+      "wss://nostr-relay.psfoundation.info"
+    ]
   }
 }
